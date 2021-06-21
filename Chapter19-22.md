@@ -1,6 +1,6 @@
 # Chapter 19 逻辑寻址
 
-![image-20210620224317997](Chapter19-23.assets/image-20210620224317997.png)
+![image-20210620224317997](Chapter19-22.assets/image-20210620224317997.png)
 
 哈哈, 全加粗了.
 
@@ -14,7 +14,7 @@
 
 ABCDE五类地址
 
-![image-20210620224445372](Chapter19-23.assets/image-20210620224445372.png)
+![image-20210620224445372](Chapter19-22.assets/image-20210620224445372.png)
 
 重点在ABC类上.
 
@@ -160,7 +160,7 @@ IP地址化成两部分: **网络前缀; 主机号**
 
 
 
-![image-20210621184004060](Chapter19-23.assets/image-20210621184004060.png)
+![image-20210621184004060](Chapter19-22.assets/image-20210621184004060.png)
 
 
 
@@ -211,11 +211,11 @@ More Frames: 指示后面是不是还有这一帧被分出来的续帧.
 
 ## IPv6数据报格式
 
-![image-20210621191854631](Chapter19-23.assets/image-20210621191854631.png)
+![image-20210621191854631](Chapter19-22.assets/image-20210621191854631.png)
 
 好, 除了版本都不一样.
 
-![image-20210621192721966](Chapter19-23.assets/image-20210621192721966.png)
+![image-20210621192721966](Chapter19-22.assets/image-20210621192721966.png)
 
 拓展首部是算在载荷里的.
 
@@ -235,7 +235,7 @@ More Frames: 指示后面是不是还有这一帧被分出来的续帧.
 
 8. 目的地址, 128bits.
 
-   ![image-20210621193900812](Chapter19-23.assets/image-20210621193900812.png)
+   ![image-20210621193900812](Chapter19-22.assets/image-20210621193900812.png)
 
 ## IPv4和IPv6混合
 
